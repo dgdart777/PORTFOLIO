@@ -1,0 +1,107 @@
+ .u-section-1 {
+  background-image: url("images/4237cf9e9c6a02a4153cbb05c911c8a22a7690e604e114e141f9a7ebdcb69522da77e57f8830710f2b67099d2b703fac2f66ccf7221e533713231f_1280.jpg");
+  background-position: 50% 50%;
+  min-height: 1540px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 466px;
+  height: 699px;
+  margin: 0 0 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  line-height: 1.4;
+  margin: -258px 50px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin: -1027px calc(((100% - 1140px) / 2)  + -192px) 0 calc(((100% - 1140px) / 2)  + 192px);
+}
+
+.u-section-1 .u-image-2 {
+  width: 224px;
+  height: 224px;
+  margin: -289px auto 60px calc(((100% - 1140px) / 2)  + -28px);
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 1398px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 940px) / 2));
+    margin-right: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 940px) / 2)  + -28px);
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 1549px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 720px) / 2));
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 720px) / 2)  + -28px);
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 1751px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: calc(((100% - 540px) / 2)  + -28px);
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 2357px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 510px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -148px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -947px;
+    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 143px;
+    height: 110px;
+    margin-top: -1362px;
+    margin-left: calc(((100% - 340px) / 2)  + -28px);
+  }
+}
